@@ -1,0 +1,79 @@
+#rightbox > .box{
+    width: 451px;
+   background-color: #E57373;
+    margin-left: -4%;
+    margin-top: 13px;
+    height: 385px;
+}
+
+label {
+    font-size: 20px;
+    margin-right: 135px;
+}
+
+.time {
+    margin-right: 192px;
+}
+input  {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .showbelow 
+  {
+    width: 60%;
+    margin: 8px 0;
+   border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .show {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+button {
+    width: 40%;
+    background-color: #F06292;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+.leftbox {
+    width: 490px;
+    height: 410px;
+    background-color: #FCE4EC;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+.datta {
+    width: 100px;
+    height: 100px;
+    ;;
+}
+
+#rightbox {
+    max-width: 30%;
+    max-height: 30%;
+    margin-left: 64%;
+   
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
